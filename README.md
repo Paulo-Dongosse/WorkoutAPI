@@ -16,7 +16,7 @@ API desenvolvida com **FastAPI** para o gerenciamento de atletas, categorias e c
 - FastAPI
 - SQLAlchemy
 - Alembic
-- SQLite ou PostgreSQL (configurável)
+- SQLite 
 - Uvicorn
 
 ## ▶️ Como rodar o projeto
