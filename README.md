@@ -23,4 +23,4 @@ API desenvolvida com **FastAPI** para o gerenciamento de atletas, categorias e c
 
 1. Clone o repositório:
    ```bash
-   
+   https://github.com/Paulo-Dongosse/WorkoutAPI.git
