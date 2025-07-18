@@ -1,4 +1,4 @@
-﻿alembic==1.16.4
+alembic==1.16.4
 annotated-types==0.7.0
 anyio==4.9.0
 asttokens==2.4.1
@@ -11,8 +11,8 @@ comm==0.2.2
 debugpy==1.8.8
 decorator==5.1.1
 executing==2.1.0
-fastapi==0.116.1
-fastapi-pagination==0.12.24
+fastapi==0.95.2
+fastapi-pagination==0.10.2
 greenlet==3.2.3
 h11==0.16.0
 idna==3.10
@@ -35,8 +35,7 @@ platformdirs==4.3.6
 prompt_toolkit==3.0.48
 psutil==6.1.0
 pure_eval==0.2.3
-pydantic==2.11.7
-pydantic_core==2.33.2
+pydantic==1.10.12
 Pygments==2.18.0
 PyQt5==5.15.11
 PyQt5-Qt5==5.15.2
@@ -60,5 +59,5 @@ typing-inspection==0.4.1
 typing_extensions==4.14.1
 tzdata==2024.2
 urllib3==2.5.0
-uvicorn==0.35.0
+uvicorn==0.22.0
 wcwidth==0.2.13
